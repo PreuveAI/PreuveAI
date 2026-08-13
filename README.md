@@ -84,7 +84,7 @@ The free scan is $0 with no credit card. Paid plans start at $29 one-time for th
 | Plan | Price | What you get |
 |---|---|---|
 | Free scan | $0 | Viability score, verdict, top competitors, key risk, no credit card |
-| Founder Report | $29 one-time | 15 sections, market sizing (TAM/SAM/SOM), up to 15 competitors, go-to-market plan, 3 pivots, Founder Fit, 14-day guarantee |
+| Founder Report | $29 one-time | 18 sections, market sizing (TAM/SAM/SOM), up to 15 competitors, go-to-market plan, 3 pivots, Founder Fit, 14-day guarantee |
 | Radar | from $19/month | Monthly rescans, competitor and demand alerts |
 | Investor Package | $499 one-time | Pitch deck, investor memo, financial model |
 
