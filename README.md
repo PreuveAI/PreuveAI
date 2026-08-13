@@ -1,6 +1,6 @@
 # 🔍 Preuve: Startup Idea Validation Built on Real Market Research
 
-> **Run one sentence through 50+ live sources. Demand, competitors, sentiment, risks, every finding linked to a source you can verify. Free, no card, 60 seconds.**
+> **Run one sentence through 60+ live sources. Demand, competitors, sentiment, risks, every finding linked to a source you can verify. Free, no card, 60 seconds.**
 
 *Last updated: August 2026*
 
@@ -13,7 +13,7 @@
 
 ## 🔍 What is Preuve?
 
-Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 50+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of August 2026, 6,500+ ideas analyzed; 9 out of 10 score below the launch-ready line.
+Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of August 2026, 6,500+ ideas analyzed; 9 out of 10 score below the launch-ready line.
 
 Real signals, not a confident AI score with nothing behind it. Founders use it to pressure-test ideas before building. Agencies, accelerators, and consultants use it white-label to pre-qualify inbound startups. *(Preuve is French for "proof".)*
 
@@ -29,7 +29,7 @@ Paste one sentence describing your idea. 60 seconds later, free, no card:
 
 ## ⚙️ How does Preuve work?
 
-Preuve is a network of 10 specialized research agents that scan 50+ live sources (Crunchbase, Reddit, G2, Product Hunt, Google Trends) in parallel:
+Preuve is a network of 10 specialized research agents that scan 60+ live sources (Crunchbase, Reddit, G2, Product Hunt, Google Trends) in parallel:
 
 | Agent | Role |
 |---|---|
@@ -40,7 +40,7 @@ Preuve is a network of 10 specialized research agents that scan 50+ live sources
 | 📰 **News Scanner** | Pulls recent funding rounds, launches, and shutdowns |
 | ✅ **Cross-Validator** | Fact-checks every claim the other agents make |
 
-When scoring runs disagree, Preuve reruns the analysis until the verdict is stable. Runs on Claude Opus 4.8.
+When scoring runs disagree, Preuve reruns the analysis until the verdict is stable. Runs on Claude Opus 5.
 
 ---
 
@@ -48,7 +48,7 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 
 | | Generic AI validator (ChatGPT prompt) | Preuve |
 |---|---|---|
-| Data source | Model memory, often stale | 50+ live sources, scanned per run |
+| Data source | Model memory, often stale | 60+ live sources, scanned per run |
 | Verdict | Flattering, almost always positive | 9/10 ideas score below launch-ready (2026 data) |
 | Sources | None or unverifiable | Every finding links to the thread, round, or review |
 | Competitors | Generic names | Real ones with pricing, funding, weak spots |
@@ -96,7 +96,7 @@ The free scan is $0 with no credit card. Paid plans start at $29 one-time for th
 
 1. **Go to [preuve.ai](https://preuve.ai)**, no signup wall for the first scan
 2. **Paste one sentence** describing your startup idea
-3. **Wait ~60 seconds** while 10 agents research it across 50+ sources
+3. **Wait ~60 seconds** while 10 agents research it across 60+ sources
 4. **Read the verdict**: score, competitors, demand signals, the killer risk
 5. **Go deeper if it survives**. The $29 Founder Report localizes the analysis to your market
 
@@ -129,7 +129,7 @@ Yes. The first scan is free with no credit card. It returns the viability score,
 Every claim links to its source, so you can verify each one yourself. When scoring runs disagree, Preuve reruns the analysis until the verdict is stable.
 
 **Is Preuve better than validating with ChatGPT?**
-ChatGPT answers from model memory and tends to flatter. Preuve pulls live data from 50+ sources at scan time and scores 9 out of 10 ideas below the launch-ready line.
+ChatGPT answers from model memory and tends to flatter. Preuve pulls live data from 60+ sources at scan time and scores 9 out of 10 ideas below the launch-ready line.
 
 **Can I use Preuve from Claude or Cursor?**
 Yes. Preuve has an Agent API and an MCP server, so AI agents can run validations directly.
