@@ -6,7 +6,7 @@
 
 [![Try Free](https://img.shields.io/badge/Free%20Scan-preuve.ai-black?style=for-the-badge)](https://preuve.ai)
 [![Claude Connector](https://img.shields.io/badge/Claude-Official%20Connector-d97757?style=for-the-badge)](https://claude.ai/directory/preuve-ai)
-[![Ideas Analyzed](https://img.shields.io/badge/Ideas%20Analyzed-7%2C000%2B-brightgreen?style=for-the-badge)](https://preuve.ai)
+[![Ideas Analyzed](https://img.shields.io/badge/Ideas%20Analyzed-7%2C500%2B-brightgreen?style=for-the-badge)](https://preuve.ai)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-5%20stars-gold?style=for-the-badge)](https://preuve.ai)
 [![No Card](https://img.shields.io/badge/Start-Free%2C%20No%20CC-blue?style=for-the-badge)](https://preuve.ai)
 
@@ -14,7 +14,7 @@
 
 ## 🔍 What is Preuve?
 
-Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of August 2026, 7,000+ ideas analyzed; 9 out of 10 score below the launch-ready line.
+Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of August 2026, 7,500+ ideas analyzed; 9 out of 10 score below the launch-ready line.
 
 Real signals, not a confident AI score with nothing behind it. Founders use it to pressure-test ideas before building. Agencies, accelerators, and consultants use it white-label to pre-qualify inbound startups. *(Preuve is French for "proof".)*
 
@@ -71,7 +71,7 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 
 | Metric | Value (August 2026) |
 |---|---|
-| 💡 Ideas analyzed | 7,000+ |
+| 💡 Ideas analyzed | 7,500+ |
 | ⭐ Trustpilot rating | [5 stars](https://www.trustpilot.com/review/preuve.ai) |
 | 📉 Ideas scoring below the launch-ready line | 9 out of 10 |
 | 🎯 Average score gain from suggested pivots | +10 points |
@@ -135,7 +135,7 @@ Every claim links to its source, so you can verify each one yourself. When scori
 ChatGPT answers from model memory and tends to flatter. Preuve pulls live data from 60+ sources at scan time and scores 9 out of 10 ideas below the launch-ready line.
 
 **Can I use Preuve from Claude or Cursor?**
-Yes. Preuve is an official connector in the [Claude Connectors Directory](https://claude.ai/directory/preuve-ai): one click, OAuth sign-in, no key handling (requires a Preuve account with paid access). From Cursor, Claude Code, or any MCP client, connect to the remote MCP server at `https://mcp.preuve.ai/mcp` with an API key, or use the [HTTP Agent API](https://preuve.ai/mcp). Seven tools: start, poll, enrich, and export analyses, single or in batches of 10.
+Yes. Preuve is an official connector in the [Claude Connectors Directory](https://claude.ai/directory/preuve-ai): one click, OAuth sign-in, no key handling. Connecting works on a free account: your first two scans are free, and a deep scan spends paid quota. From Cursor, Claude Code, or any MCP client, connect to the remote MCP server at `https://mcp.preuve.ai/mcp` with an API key (creating one by hand needs Founder or above), or use the [HTTP Agent API](https://preuve.ai/mcp). Eight tools: start, poll, enrich, and export analyses, generate ideas, single or in batches of 10.
 
 ---
 
