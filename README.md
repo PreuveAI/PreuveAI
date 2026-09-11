@@ -9,6 +9,7 @@
 [![Ideas Analyzed](https://img.shields.io/badge/Ideas%20Analyzed-7%2C500%2B-brightgreen?style=for-the-badge)](https://preuve.ai)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-5%20stars-gold?style=for-the-badge)](https://preuve.ai)
 [![No Card](https://img.shields.io/badge/Start-Free%2C%20No%20CC-blue?style=for-the-badge)](https://preuve.ai)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/preuve-ai-mcp)
 
 ---
 
