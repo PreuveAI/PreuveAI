@@ -2,7 +2,7 @@
 
 > **Run one sentence through 60+ live sources. Demand, competitors, sentiment, risks, every finding linked to a source you can verify. Free, no card, 60 seconds.**
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 [![Try Free](https://img.shields.io/badge/Free%20Scan-preuve.ai-black?style=for-the-badge)](https://preuve.ai)
 [![Claude Connector](https://img.shields.io/badge/Claude-Official%20Connector-d97757?style=for-the-badge)](https://claude.ai/directory/preuve-ai)
@@ -70,9 +70,9 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 
 ## 📈 Traction
 
-| Metric | Value (August 2026) |
+| Metric | Value (September 2026) |
 |---|---|
-| 💡 Ideas analyzed | 7,500+ |
+| 💡 Ideas analyzed | 8,000+ |
 | ⭐ Trustpilot rating | [5 stars](https://www.trustpilot.com/review/preuve.ai) |
 | 📉 Ideas scoring below the launch-ready line | 9 out of 10 |
 | 🎯 Average score gain from suggested pivots | +10 points |
@@ -148,6 +148,7 @@ Yes. Preuve is an official connector in the [Claude Connectors Directory](https:
 - 🤖 MCP server + Agent API: [preuve.ai/mcp](https://preuve.ai/mcp) · docs at [docs.preuve.ai](https://docs.preuve.ai)
 - 🏢 For consultants and agencies: [preuve.ai/consultants](https://preuve.ai/consultants)
 - 🧰 Free founder tools: [preuve.ai/free-tools](https://preuve.ai/free-tools)
+- 🛡️ Code review bot on our repos: [Preuve Reviewer](https://github.com/apps/preuve-reviewer), a GitHub App
 - 📧 Support: support@preuve.ai
 
 ---
