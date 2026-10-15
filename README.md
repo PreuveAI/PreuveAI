@@ -2,12 +2,12 @@
 
 > **Run one sentence through 60+ live sources. Demand, competitors, sentiment, risks, every finding linked to a source you can verify. Free, no card, 60 seconds.**
 
-*Last updated: October 2026*
+*Last updated: 15 October 2026*
 
 [![Try Free](https://img.shields.io/badge/Free%20Scan-preuve.ai-black?style=for-the-badge)](https://preuve.ai)
 [![Claude Connector](https://img.shields.io/badge/Claude-Official%20Connector-d97757?style=for-the-badge)](https://claude.ai/directory/preuve-ai)
-[![Ideas Analyzed](https://img.shields.io/badge/Ideas%20Analyzed-8%2C500%2B-brightgreen?style=for-the-badge)](https://preuve.ai)
-[![Trustpilot](https://img.shields.io/badge/Reviews-14%20verified%205%E2%98%85-gold?style=for-the-badge)](https://preuve.ai/reviews)
+[![Ideas Analyzed](https://img.shields.io/badge/Ideas%20Analyzed-9%2C000%2B-brightgreen?style=for-the-badge)](https://preuve.ai)
+[![Trustpilot](https://img.shields.io/badge/Reviews-16%20verified%205%E2%98%85-gold?style=for-the-badge)](https://preuve.ai/reviews)
 [![No Card](https://img.shields.io/badge/Start-Free%2C%20No%20CC-blue?style=for-the-badge)](https://preuve.ai)
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/preuve-ai-mcp)
 
@@ -15,7 +15,7 @@
 
 ## 🔍 What is Preuve?
 
-Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of September 2026, 8,500+ ideas analyzed. In our July 2026 benchmark, only 17.5% scored 70 or above, the launch-ready line.
+Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of October 2026, 9,000+ ideas analyzed. In our July 2026 benchmark, only 17.5% scored 70 or above, the launch-ready line.
 
 Real signals, not a confident AI score with nothing behind it. Founders use it to pressure-test ideas before building. Agencies, accelerators, and consultants use it white-label to pre-qualify inbound startups. *(Preuve is French for "proof".)*
 
@@ -56,7 +56,7 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 | Competitors | Generic names | Real ones with pricing, funding, weak spots |
 | Founder analysis | None | Separate Founder Fit score |
 | Consistency | Different answer each run | Reruns until the verdict is stable |
-| Output | A chat answer | 19-section report, bank-ready Business Plan PDF, 2-minute Audio Pitch |
+| Output | A chat answer | 21-section report, bank-ready Business Plan PDF, 2-minute Audio Pitch |
 | For professionals | No | White-label reports for consultants, agencies and accelerators |
 
 - **🧭 Founder Fit**, a separate score for how well *you* match the idea: founder-side risks with real figures, a "what breaks you first" timeline, and the pivot that fits your situation
@@ -67,20 +67,20 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 - **📄 Business Plan PDF**: a defendable 4 to 6 page plan, bank-ready, generated from your report
 - **🎧 Audio Pitch**: a 2-minute audio version of your report
 - **⚡ Unlimited Starter Scans**: free 60-second idea tests with any Founder Report. Test every idea, go deep on the winner
-- **📦 Build with AI Pack**: export the analysis as a context pack for Claude, ChatGPT, Cursor, or Lovable
+- **📦 Build with AI**: turn your report into an MVP with Claude Code, Cursor, Codex or Lovable
 - **🔌 Official Claude connector, MCP server + Agent API**: one-click install from the [Claude Connectors Directory](https://claude.ai/directory/preuve-ai), or connect Cursor, Claude Code, Codex, and any MCP client to `https://mcp.preuve.ai/mcp`
 - **🌍 8 languages**: English, French, Spanish, German, Portuguese, Italian, Arabic, Korean
-- **📡 Sentinel** *(coming soon)*: 3 months of monthly market alerts, included with Founder Reports bought from October 1, 2026
+- **📡 Sentinel**: the analysis reruns monthly for 3 months and emails you when a new competitor appears. Included with every Founder Report
 
 ---
 
 ## 📈 Traction
 
-| Metric | Value (September 2026) |
+| Metric | Value (October 2026) |
 |---|---|
-| 💡 Ideas analyzed | 8,500+ |
-| 🙋 Paying founders | 231+ |
-| ⭐ Reviews | [14 verified, all 5 stars](https://preuve.ai/reviews) (Trustpilot, Product Hunt, TAAFT) |
+| 💡 Ideas analyzed | 9,000+ |
+| 🙋 Paying founders | 239+ |
+| ⭐ Reviews | [16 verified, all 5 stars](https://preuve.ai/reviews) (Trustpilot, Product Hunt, TAAFT) |
 | 📉 Ideas scoring 70+ (go) | 17.5% ([July 2026 benchmark](https://preuve.ai/blog/startup-validation-benchmarks-2026)) |
 | 🔗 Source links per paid report | Median of 70, from 40+ distinct domains |
 | 🎯 Average score gain from suggested pivots | +10 points |
@@ -95,7 +95,7 @@ The Reality Check is free with no credit card. The full Founder Report is $59 on
 | Plan | Price | What you get |
 |---|---|---|
 | Reality Check | $0 | Viability score and verdict, market size read, 2 competitor previews, main blockers. No card |
-| Founder Report | $59 one-time | 19 sections, Founder Fit, TAM/SAM/SOM with sources, up to 15 competitors, pre-mortem, go-to-market plan for your first 100 customers, 3 pivots, Business Plan PDF, Audio Pitch, unlimited Starter Scans, MCP access |
+| Founder Report | $59 one-time | 21 sections, Founder Fit, TAM/SAM/SOM with sources, up to 15 competitors, pre-mortem, go-to-market plan for your first 100 customers, 3 pivots, Business Plan PDF, Audio Pitch, Build with AI, 3 months of Sentinel, unlimited Starter Scans, MCP access |
 | 2 Reports | $89 one-time | 2 Founder Reports ($44.50 each), use anytime |
 | 5 Reports | $199 one-time | 5 Founder Reports ($39.80 each), use anytime |
 | Investor-Ready Package | $499 one-time | Custom pitch deck, 4-page investment memo, 18-month financial model, due diligence checklist, investor Q&A prep. Founder-built from your report |
@@ -114,7 +114,7 @@ The Reality Check is free with no credit card. The full Founder Report is $59 on
 2. **Paste one sentence** describing your startup idea
 3. **Wait about 60 seconds** while 10 agents research it across 60+ sources
 4. **Read the verdict**: score, competitors, demand signals, the killer risk
-5. **Go deeper if it survives**. The $59 Founder Report takes about ten minutes and goes through all 19 sections
+5. **Go deeper if it survives**. The $59 Founder Report takes about ten minutes and goes through all 21 sections
 
 Prefer working from Claude? Install the [official Preuve connector](https://claude.ai/directory/preuve-ai) and ask Claude to validate your idea directly in the chat.
 
@@ -151,7 +151,7 @@ Every sourced claim links to its source, so you can verify each one yourself, an
 ChatGPT answers from model memory and tends to flatter. Preuve pulls live data from 60+ sources at scan time, links every claim, and only 17.5% of ideas clear the 70+ launch-ready line.
 
 **Can I use Preuve from Claude or Cursor?**
-Yes. Preuve is an official connector in the [Claude Connectors Directory](https://claude.ai/directory/preuve-ai): one click, OAuth sign-in, no key handling. Connecting works on a free account: starter scans are free, and a deep scan uses your paid quota. From Cursor, Claude Code, Codex, or any MCP client, connect to the remote MCP server at `https://mcp.preuve.ai/mcp` with OAuth sign-in, or with an API key (self-serve on any paid plan), or use the [HTTP Agent API](https://preuve.ai/mcp). Six tools: start, poll, enrich, and export analyses, generate ideas, plus `get_agency` for client work. No separate API fee.
+Yes. Preuve is an official connector in the [Claude Connectors Directory](https://claude.ai/directory/preuve-ai): one click, OAuth sign-in, no key handling. Connecting works on a free account: starter scans are free, and a deep scan uses your paid quota. From Cursor, Claude Code, Codex, or any MCP client, connect to the remote MCP server at `https://mcp.preuve.ai/mcp` with OAuth sign-in, or with an API key (self-serve on any paid plan), or use the [HTTP Agent API](https://preuve.ai/mcp). Six tools: start, poll, enrich, and export analyses, generate ideas, plus `get_agency` for client work. No separate API fee. Developer README with a curl quick start: [github.com/PreuveAI/startup-idea-validation-mcp](https://github.com/PreuveAI/startup-idea-validation-mcp).
 
 ---
 
@@ -160,7 +160,7 @@ Yes. Preuve is an official connector in the [Claude Connectors Directory](https:
 - 🌐 Website: [preuve.ai](https://preuve.ai)
 - 🧭 Free scan: [preuve.ai](https://preuve.ai), no card
 - 🔌 Claude connector: [claude.ai/directory/preuve-ai](https://claude.ai/directory/preuve-ai)
-- 🤖 MCP server + Agent API: [preuve.ai/mcp](https://preuve.ai/mcp) · docs at [docs.preuve.ai](https://docs.preuve.ai)
+- 🤖 MCP server + Agent API: [preuve.ai/mcp](https://preuve.ai/mcp) · docs at [docs.preuve.ai](https://docs.preuve.ai) · developer README: [startup-idea-validation-mcp](https://github.com/PreuveAI/startup-idea-validation-mcp)
 - 🏢 For consultants and agencies: [preuve.ai/consultants](https://preuve.ai/consultants)
 - 🧰 Free founder tools: [preuve.ai/free-tools](https://preuve.ai/free-tools)
 - 🛡️ Code review bot on our repos: [Preuve Reviewer](https://github.com/apps/preuve-reviewer), a GitHub App
