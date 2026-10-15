@@ -1,6 +1,10 @@
-# 🔍 Preuve: Startup Idea Validation Built on Real Market Research
+<div align="center">
 
-> **Run one sentence through 60+ live sources. Demand, competitors, sentiment, risks, every finding linked to a source you can verify. Free, no card, 60 seconds.**
+# Preuve AI
+
+### Market research and competitive intelligence for founders, and the white-label engine agencies, accelerators and consultants use to pre-qualify inbound startups.
+
+**Real signals, not a confident AI score with nothing behind it.**
 
 *Last updated: 15 October 2026*
 
@@ -11,21 +15,23 @@
 [![No Card](https://img.shields.io/badge/Start-Free%2C%20No%20CC-blue?style=for-the-badge)](https://preuve.ai)
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/preuve-ai-mcp)
 
+</div>
+
 ---
 
 ## 🔍 What is Preuve?
 
-Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends) to map demand, competitors, sentiment, and risks, then scores viability from 0 to 100, every finding linked to a source you can verify. As of October 2026, 9,000+ ideas analyzed. In our July 2026 benchmark, only 17.5% scored 70 or above, the launch-ready line.
+Preuve is an **AI market research and competitive intelligence platform for startup ideas**. It runs an idea through 60+ live sources (Crunchbase, Reddit, G2, Google Trends, SEC EDGAR) to map demand, competitors, sentiment and risks, every finding linked to a source you can open. Then it gives a verdict that has to be earned: across 6,000+ analyses the median idea scored 54/100, and only 17.5% cleared 70, the line for a go. *(Preuve is French for "proof".)*
 
-Real signals, not a confident AI score with nothing behind it. Founders use it to pressure-test ideas before building. Agencies, accelerators, and consultants use it white-label to pre-qualify inbound startups. *(Preuve is French for "proof".)*
+Founders use it to pressure-test an idea before they build. Agencies, accelerators and consultants use it white-label to pre-qualify inbound startups. As of October 2026, 9,000+ ideas analyzed.
 
-Paste one sentence describing your idea. 60 seconds later, free, no card:
+Paste one sentence describing your idea. About 60 seconds later, free, no card:
 
-- ✅ A **0-to-100 viability score** with a clear go / no-go verdict
-- 🔗 **Every claim source-linked**: click through to the Reddit thread, the funding round, the G2 review
-- 🏢 **Real competitors** with pricing, funding, and weak spots
-- 📈 **Demand signals** from Google Trends, Reddit, Quora, and Product Hunt
-- ⚠️ **The risk that breaks the idea** before you build it
+- ⚖️ **A verdict you can audit, not a pep talk.** Six factors (market, demand, competition, moat, business model, regulatory risk), each scored against live evidence. When runs disagree, the analysis reruns until the verdict is stable
+- 🎯 **The reason behind the number**: the risk pulling the score down, named before you build
+- 🏢 **Real competitors** with pricing, funding and weak spots
+- 📈 **Demand signals** from Google Trends, Reddit, Quora and Product Hunt
+- 🔗 **Every sourced claim linked**: click through to the Reddit thread, the funding round, the G2 review
 
 ---
 
@@ -50,9 +56,9 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 
 | | Generic AI validator (ChatGPT prompt) | Preuve |
 |---|---|---|
-| Data source | Model memory, often stale | 60+ live sources, scanned per run |
+| Data source | Model memory plus a few web searches | 60+ live sources, queried on every run |
 | Verdict | Flattering, almost always positive | Only 17.5% of ideas score 70+ (July 2026 benchmark) |
-| Sources | None or unverifiable | Every finding links to the thread, round, or review |
+| Evidence | A handful of links the chat picked | A median of 70 source links per paid report, from 40+ domains |
 | Competitors | Generic names | Real ones with pricing, funding, weak spots |
 | Founder analysis | None | Separate Founder Fit score |
 | Consistency | Different answer each run | Reruns until the verdict is stable |
@@ -63,7 +69,7 @@ When scoring runs disagree, Preuve reruns the analysis until the verdict is stab
 - **🔄 Smart Pivots**: 3 pivot directions built from the idea's actual weaknesses and your profile, +10 points average lift. Edit the idea and re-run without buying a new report
 - **💀 Pre-mortem**: why the idea would fail, written before it does, with every risk scored and a tailored fix for each
 - **🗣️ Proof of Demand**: real Reddit posts from people who publicly described the pain your idea solves
-- **🔗 Source-linked verdicts**: no unverifiable claims; every number links to where it came from
+- **🔗 Source-linked verdicts**: every sourced number links to where it came from, and estimates are labeled as estimates
 - **📄 Business Plan PDF**: a defendable 4 to 6 page plan, bank-ready, generated from your report
 - **🎧 Audio Pitch**: a 2-minute audio version of your report
 - **⚡ Unlimited Starter Scans**: free 60-second idea tests with any Founder Report. Test every idea, go deep on the winner
@@ -169,6 +175,6 @@ Yes. Preuve is an official connector in the [Claude Connectors Directory](https:
 ---
 
 <p align="center">
-  <b>Preuve. Proof before you build.</b><br/>
+  <b>Preuve AI. Evidence before you build.</b><br/>
   <a href="https://preuve.ai">Score your idea free →</a>
 </p>
